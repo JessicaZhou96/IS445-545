@@ -1,0 +1,13 @@
+#task1Error {
+    color: red;
+}
+
+#task3 {
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.hidden {
+    visibility: hidden;
+}
